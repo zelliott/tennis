@@ -1,0 +1,8 @@
+{
+  "name": "tennis",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.0"
+  },
+  "devDependencies": {}
+}
