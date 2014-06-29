@@ -1,0 +1,1 @@
+Tennis.ApplicationAdapter = DS.FixtureAdapter
