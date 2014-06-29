@@ -54,6 +54,7 @@ Tennis.ApplicationController = Ember.Controller.extend({
         low:   Math.random() * 100 - 50,
         close: Math.random() * 100
       });
+      console.log('hi');
     }
     return generatedContent;
   }.property('numRows')
