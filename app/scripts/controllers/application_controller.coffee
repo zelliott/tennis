@@ -1,4 +1,4 @@
-App.ApplicationController = Ember.Controller.extend
+Tennis.ApplicationController = Ember.Controller.extend
   numRows: 100
 
   columns: Ember.computed ->
